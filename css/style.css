@@ -1,0 +1,65 @@
+@media (max-width: 768px) {
+  
+  button {
+    display: block;
+    width: 100%;
+    margin: 5px 0;
+  }
+
+ 
+  table {
+    font-size: 12px;
+  }
+
+  th, td {
+    padding: 6px;
+  }
+  #alertBox {
+    margin-top: 10px;  
+    position: relative;   
+               
+    left: 0;
+    right: 0;
+    margin: 0;
+    width: 100%;           
+    text-align: center;
+    font-size: 14px;
+    z-index: 1050;  
+      
+  }
+
+  .navbar-brand {
+    font-size: 16px;
+    text-align: center;
+    width: auto;
+  }
+  
+ 
+
+}
+
+  
+
+section{
+ 
+    align-content: center;
+    justify-content: center;
+    margin-top: 60px;
+}
+.btns{
+    margin-top: 20px;
+}
+
+.alert{
+      width: 100%;   
+    display:none; 
+    background:#fff3cd; 
+    padding:10px; 
+    margin-top:0px; text-align: center; font-weight: bold;
+    
+}
+table{
+    margin-top: 1%;
+    align-content: center;
+    justify-content: center;
+}
